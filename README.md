@@ -2,6 +2,11 @@
 
 A script with the sole purpose of listing every file in a directory and saving those names to a `file_list.txt` file. Why? Because sometimes you just need a list. No questions asked.
 
+<p align="center">
+  <img src="https://lh5.googleusercontent.com/proxy/VEbYoshQGegiB-8PGICxVSO_hkUWY_N6VvoAIkE3n1va7TqZyV2EM2ZBewNYZNbm9ChVJ0Wdowu_00GX0Kw3Fvqdd5PPxWjpAgQoWp5lXvLPiGeHtPS62uuzIqmCM1uQwAlvtFsJeA" width="50%">
+</p>
+
+
 ---
 
 ## 🤔 What It Does
